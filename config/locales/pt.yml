@@ -4,13 +4,13 @@ pt:
   address: Endereço
   back: Voltar
   changePassword: Mudar senha
-  contact: Contato
+  contact:
     emailSubject: Contate a partir de seu site
     error: Desculpe-nos, ocorreu um erro.
     success: Obrigado pela sua mensagem. Entraremos em contato em breve!
   contactUs: Contato
   contactUsPrompt: Preencha o seguinte formulário para entrar em contato connosco
-  devise: Conceber
+  devise:
     user_update_success: A sua conta foi atualizada com sucesso.
     user_update_success_title: Parabéns
   editarPropiedad: Editar uma propriedade
@@ -21,7 +21,7 @@ pt:
   forRent: Para alugar
   forSale: Para vender
   go: Ir
-  labels: Rótulos
+  labels:
     create: Criar
     edit: Editar
     latestProperties: Últimas propriedades
@@ -31,25 +31,25 @@ pt:
   leaveBlank: Deixe em branco se não pretender alterar
   legalAdvice: Informação legal
   listadoPropiedades: Lista de propriedades
-  mailers: transmissor
+  mailers:
     confirm_registration: Por favor, confirme sua conta através do link abaixo
     from: A partir de
-    general_enquiry_targeting_agency: Segmentação por inquérito geral - agência
+    general_enquiry_targeting_agency:
       title: Inquérito geral do seu site
-    general_enquiry_targeting_enquirer: Segmentação por inquérito geral - inquiridor
+    general_enquiry_targeting_enquirer:
       message_title: ''
       subject: ''
     message: Mensagem
     phone: Tel
     property: Propriedade
-    property_enquiry_targeting_agency: Segmentação de consulta de propriedade - agência
+    property_enquiry_targeting_agency:
       title: Inquérito sobre uma propriedade
     received_on: recebido em
     welcome: Bem-vindo
   menu_admin: administrador
   message: Mensagem
   name: Nome
-  navbar: Barra de Navegação
+  navbar:
     aboutUs: Sobre nós
     admin: Admin
     buy: Comprar
@@ -63,17 +63,17 @@ pt:
   newPassword: Nova senha
   noResultsForSearch: Desculpe, não foram encontrados resultados
   nuevoPropiedad: nova propriedade
-  orderBy: Pedido por
+  orderBy:
     priceAscending: "↓ Preço (crescente)"
     priceDescending: "↑ Preço (descendente)"
-  placeHolders: espaços reservados
+  placeHolders:
     email: Seu email
     message: Escreva sua mensagem aqui
     name: Seu nome
     subject: Assunto
     tel: Fixo ou móvel
   privacyPolicy: Política de Privacidade
-  property: propriedade
+  property:
     description: Descrição
     details: detalhes
     extras: Características
@@ -103,12 +103,12 @@ pt:
   requestPropertyInfo: Pedido de informações
   search: Buscar
   searchForProperties: Buscar propriedades
-  selectpicker: Selecione
+  selectpicker:
     countSelectedText: Selecionado {0} de {1}
     noneResultsText: Nenhum resultado encontrado {0}
     noneSelectedText: Nenhum selecionado
   send: Enviar
-  setup: configuração
+  setup:
     claimSubdomain: Solicite este subdomínio
     createdSuccessfully: O website foi criado com sucesso
     goToYourSite: Ir para o seu site
@@ -123,11 +123,11 @@ pt:
     weAreCreatingSite: Estamos criando o seu site
   signOut: Sair
 
-  simple_form: formulário simples
-    error_notification: notificação de erro
+  simple_form:
+    error_notification:
       default_message: 'Reveja os problemas abaixo:'
-    labels: rótulos
-      search: buscar
+    labels:
+      search:
         count_bathrooms: Banheiro (min)
         count_bedrooms: Quartos (min)
         for_rent_price_from: Alugar a partir de (Mensal)
@@ -140,7 +140,7 @@ pt:
         property_state: Estado da propriedade
         property_type: Tipo de Propriedade
     'no': Não
-    required: requerido
+    required:
       mark: "*"
       text: requiridos
     'yes': sim
@@ -149,7 +149,7 @@ pt:
   tel: Telefone
   'true': sim
   update: Atualizar
-  webContentSections: Seções de conteúdo web
+  webContentSections:
     aboutUs: Sobre nós
     contactInformation: Informações de contato
     home: Início
